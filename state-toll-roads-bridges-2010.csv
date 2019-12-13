@@ -1,0 +1,58 @@
+State,Toll road mileage,Number of toll bridges,Number of toll tunnels,Number of toll ferry routes
+Alabama,0.7,3,0,2
+Alaska,0,0,1,17
+Arizona,0,0,0,0
+Arkansas,0,0,0,0
+California,119.8,8,0,1
+Colorado,84,0,0,0
+Connecticut,0,0,0,6
+Delaware,56.7,1,0,1
+District of Columbia,0,0,0,0
+Florida,703.1,11,0,0
+Georgia,6.2,0,0,0
+Hawaii,0,0,0,0
+Idaho,0,0,0,0
+Illinois,286.6,5,0,5
+Indiana,156.8,3,0,0
+Iowa,0,5,0,1
+Kansas,236,0,0,0
+Kentucky,0,0,0,3
+Louisiana,1.5,3,0,0
+Maine,106.2,0,0,15
+Maryland,27.6,5,2,2
+Massachusetts,138.2,1,2,2
+Michigan,0,6,1,12
+Minnesota,27,2,0,0
+Mississippi,0,0,0,0
+Missouri,0,1,0,7
+Montana,0,0,0,0
+Nebraska,0,4,0,0
+Nevada,6.4,0,0,0
+New Hampshire,155.4,1,0,0
+New Jersey,359.9,26,2,1
+New Mexico,0,0,0,0
+New York,567.6,28,4,10
+North Carolina,12.6,0,0,4
+North Dakota,0,1,0,0
+Ohio,241.2,2,0,6
+Oklahoma,595.5,0,0,0
+Oregon,0,2,0,5
+Pennsylvania,573.7,15,0,2
+Rhode Island,0,1,0,3
+South Carolina,23.5,0,0,0
+South Dakota,0,0,0,0
+Tennessee,0,0,0,3
+Texas,347.2,26,1,1
+Utah,1,0,0,1
+Vermont,11.9,1,0,4
+Virginia,58.6,5,2,1
+Washington,14.5,3,0,19
+West Virginia,86.8,2,0,1
+Wisconsin,0,0,0,5
+Wyoming,0,0,0,0
+"United States, total","5,006.20",136,13,115
+U.S. total (incl. Puerto Rico),"5,222.50",137,13,120
+1Length includes approaches and connecting links which were financed as an integral part of the toll project.  The length of toll bridges includes approach sections which may be used toll free by local residents.,,,,
+2Multiple structures at a single facility are counted as one bridge or tunnel. Does not include bridges or tunnels that are part of roadway segments reported under Toll road mileage.,,,,
+"NOTE: Totals reflect crossings between states as one facility or ferry route, including 35 bridges, 2 tunnels, and 25 ferry routes.",,,,
+"SOURCE: U.S. Department of Transportation, Federal Highway Administration, Office of Highway Policy Information, Toll Facilities in the United States July 2011, Washington, DC: 2011, T-1, available at http://www.fhwa.dot.gov/policyinformation/tollpage/ as of March 8, 2012",,,,
